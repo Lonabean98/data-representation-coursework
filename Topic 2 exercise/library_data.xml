@@ -1,0 +1,21 @@
+<technical books>
+    <Book ISBN= "0593015185">
+        <title> A Brief History of Time</title>
+        <author>Stephen Hawking</author>
+    </Book>
+    <Book ISBN= "9780203450710">
+        <title> The Art of Doing Science and Engineering </title>
+        <author>Richard Hamming</author>
+    </Book>
+</technical books>
+    
+<cookery books>
+    <Book ISBN= "9788850226672">
+        <title> Jamie's 30-Minute Meals </title>
+        <author>Jamie Oliver</author>
+    </Book>
+    <Book ISBN= "0008430381">
+        <title> Feel Good Food </title>
+        <author>Joe Wicks</author>
+    </Book>
+</cookery books>
